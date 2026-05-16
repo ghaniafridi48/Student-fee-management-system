@@ -1,0 +1,9 @@
+dept_id,dept_name,program,created_at
+1,Computer Science,BS Computer Science,2021-01-01 00:00:00
+2,Software Engineering,BS Software Engineering,2021-01-01 00:00:00
+3,Information Technology,BS Information Technology,2021-01-01 00:00:00
+4,Electrical Engineering,BS Electrical Engineering,2021-01-01 00:00:00
+5,Business Administration,BBA,2021-01-01 00:00:00
+6,Mathematics,BS Mathematics,2021-01-01 00:00:00
+7,Physics,BS Physics,2021-01-01 00:00:00
+8,Artificial Intelligence,BS Artificial Intelligence,2021-01-01 00:00:00

@@ -1,0 +1,101 @@
+payment_id,student_id,amount,payment_date,payment_method,reference_no,notes,recorded_by,created_at
+1,25,38827.1,2025-01-21,Online,ON-20250121-0001,Scholarship deduction applied,Admin,2025-01-21 10:00:00
+2,51,107470,2024-10-28,Online,ON-20241028-0002,Partial payment,Admin,2024-10-28 10:00:00
+3,37,94958,2024-11-16,Online,ON-20241116-0003,Partial payment,Admin,2024-11-16 10:00:00
+4,25,103689,2024-09-16,Bank Transfer,BT-20240916-0004,Late fee included,Admin,2024-09-16 10:00:00
+5,7,95916,2024-10-24,Bank Transfer,BT-20241024-0005,Second installment,Admin,2024-10-24 10:00:00
+6,55,33014.01,2025-01-20,Cash,,Full payment,Admin,2025-01-20 10:00:00
+7,35,81219,2025-01-31,Bank Transfer,BT-20250131-0007,Full payment,Admin,2025-01-31 10:00:00
+8,16,37893.94,2024-12-26,Cash,,First installment,Admin,2024-12-26 10:00:00
+9,77,43861.57,2025-01-29,Bank Transfer,BT-20250129-0009,First installment,Admin,2025-01-29 10:00:00
+10,36,32918.1,2024-10-09,Cheque,CH-20241009-0010,Balance clearance,Admin,2024-10-09 10:00:00
+11,10,35351.6,2024-11-18,Bank Transfer,BT-20241118-0011,Balance clearance,Admin,2024-11-18 10:00:00
+12,48,82964,2024-12-22,Cash,,Late fee included,Admin,2024-12-22 10:00:00
+13,25,103689,2024-11-09,Bank Transfer,BT-20241109-0013,Partial payment,Admin,2024-11-09 10:00:00
+14,37,29622.93,2024-12-20,Online,ON-20241220-0014,Scholarship deduction applied,Admin,2024-12-20 10:00:00
+15,21,31674.54,2025-02-20,Online,ON-20250220-0015,Scholarship deduction applied,Admin,2025-02-20 10:00:00
+16,49,97401,2025-03-15,Bank Transfer,BT-20250315-0016,Second installment,Admin,2025-03-15 10:00:00
+17,48,43712.13,2024-12-30,Bank Transfer,BT-20241230-0017,Partial payment,Admin,2024-12-30 10:00:00
+18,75,49005.64,2024-12-21,Bank Transfer,BT-20241221-0018,Partial payment,Admin,2024-12-21 10:00:00
+19,6,79852,2024-12-14,Bank Transfer,BT-20241214-0019,Late fee included,Admin,2024-12-14 10:00:00
+20,7,95916,2024-11-24,Bank Transfer,BT-20241124-0020,Partial payment,Admin,2024-11-24 10:00:00
+21,24,88208,2024-12-12,Online,ON-20241212-0021,Scholarship deduction applied,Admin,2024-12-12 10:00:00
+22,3,91813,2024-11-20,Cash,,Full payment,Admin,2024-11-20 10:00:00
+23,63,79852,2025-01-10,Online,ON-20250110-0023,Full payment,Admin,2025-01-10 10:00:00
+24,55,88757,2024-12-28,Bank Transfer,BT-20241228-0024,First installment,Admin,2024-12-28 10:00:00
+25,44,55343.24,2025-02-08,Bank Transfer,BT-20250208-0025,Full payment,Admin,2025-02-08 10:00:00
+26,15,33048.55,2024-11-13,Bank Transfer,BT-20241113-0026,Late fee included,Admin,2024-11-13 10:00:00
+27,41,47250.75,2025-02-03,Online,ON-20250203-0027,Late fee included,Admin,2025-02-03 10:00:00
+28,11,24698.89,2024-12-14,Cash,,Balance clearance,Admin,2024-12-14 10:00:00
+29,75,47781.45,2025-02-13,Online,ON-20250213-0029,Partial payment,Admin,2025-02-13 10:00:00
+30,77,81622,2025-01-09,Online,ON-20250109-0030,Partial payment,Admin,2025-01-09 10:00:00
+31,68,107470,2024-12-30,Cash,,Scholarship deduction applied,Admin,2024-12-30 10:00:00
+32,10,58272.39,2025-01-09,Online,ON-20250109-0032,First installment,Admin,2025-01-09 10:00:00
+33,70,42450.07,2024-12-16,Bank Transfer,BT-20241216-0033,Balance clearance,Admin,2024-12-16 10:00:00
+34,43,25627.67,2025-03-05,Cash,,Scholarship deduction applied,Admin,2025-03-05 10:00:00
+35,49,97401,2025-01-04,Online,ON-20250104-0035,Partial payment,Admin,2025-01-04 10:00:00
+36,45,91228,2024-11-25,Bank Transfer,BT-20241125-0036,Scholarship deduction applied,Admin,2024-11-25 10:00:00
+37,30,71736,2024-11-22,Online,ON-20241122-0037,Late fee included,Admin,2024-11-22 10:00:00
+38,20,89161,2024-10-30,Online,ON-20241030-0038,Partial payment,Admin,2024-10-30 10:00:00
+39,3,40571.51,2025-03-27,Bank Transfer,BT-20250327-0039,Late fee included,Admin,2025-03-27 10:00:00
+40,64,91228,2024-10-09,Bank Transfer,BT-20241009-0040,Full payment,Admin,2024-10-09 10:00:00
+41,9,83726,2025-01-30,Bank Transfer,BT-20250130-0041,Full payment,Admin,2025-01-30 10:00:00
+42,70,79823,2024-09-26,Bank Transfer,BT-20240926-0042,Partial payment,Admin,2024-09-26 10:00:00
+43,1,102510,2024-12-14,Online,ON-20241214-0043,First installment,Admin,2024-12-14 10:00:00
+44,5,84777,2024-11-07,Bank Transfer,BT-20241107-0044,Late fee included,Admin,2024-11-07 10:00:00
+45,33,97401,2024-11-24,Online,ON-20241124-0045,Balance clearance,Admin,2024-11-24 10:00:00
+46,45,36034.91,2025-03-03,Online,ON-20250303-0046,Partial payment,Admin,2025-03-03 10:00:00
+47,70,79823,2025-02-06,Cash,,Late fee included,Admin,2025-02-06 10:00:00
+48,57,76066,2024-10-29,Online,ON-20241029-0048,Partial payment,Admin,2024-10-29 10:00:00
+49,7,95916,2025-02-28,Online,ON-20250228-0049,Partial payment,Admin,2025-02-28 10:00:00
+50,11,81219,2024-09-08,Cash,,Balance clearance,Admin,2024-09-08 10:00:00
+51,4,33665.18,2024-10-08,Cash,,Partial payment,Admin,2024-10-08 10:00:00
+52,48,82964,2024-10-17,Cash,,Full payment,Admin,2024-10-17 10:00:00
+53,52,84777,2025-02-06,Bank Transfer,BT-20250206-0053,Partial payment,Admin,2025-02-06 10:00:00
+54,75,81801,2024-10-30,Bank Transfer,BT-20241030-0054,Second installment,Admin,2024-10-30 10:00:00
+55,39,27782.76,2025-03-25,Bank Transfer,BT-20250325-0055,Second installment,Admin,2025-03-25 10:00:00
+56,57,76066,2024-09-19,Bank Transfer,BT-20240919-0056,Second installment,Admin,2024-09-19 10:00:00
+57,49,57331.08,2025-02-24,Cash,,Balance clearance,Admin,2025-02-24 10:00:00
+58,25,43073.24,2025-01-02,Cash,,Partial payment,Admin,2025-01-02 10:00:00
+59,48,32253.23,2025-02-27,Cash,,Balance clearance,Admin,2025-02-27 10:00:00
+60,55,26842.73,2025-02-23,Online,ON-20250223-0060,Full payment,Admin,2025-02-23 10:00:00
+61,75,81801,2025-01-06,Online,ON-20250106-0061,Second installment,Admin,2025-01-06 10:00:00
+62,63,79852,2025-02-03,Online,ON-20250203-0062,First installment,Admin,2025-02-03 10:00:00
+63,53,29948.63,2025-03-13,Online,ON-20250313-0063,Late fee included,Admin,2025-03-13 10:00:00
+64,57,76066,2025-02-08,Cash,,Late fee included,Admin,2025-02-08 10:00:00
+65,54,49903.31,2024-09-09,Bank Transfer,BT-20240909-0065,Late fee included,Admin,2024-09-09 10:00:00
+66,9,32530.33,2025-03-11,Bank Transfer,BT-20250311-0066,First installment,Admin,2025-03-11 10:00:00
+67,9,83726,2024-12-03,Bank Transfer,BT-20241203-0067,Second installment,Admin,2024-12-03 10:00:00
+68,68,61710.85,2025-01-02,Cheque,CH-20250102-0068,Second installment,Admin,2025-01-02 10:00:00
+69,61,110256,2025-03-25,Cash,,Full payment,Admin,2025-03-25 10:00:00
+70,10,101069,2024-10-28,Online,ON-20241028-0070,Late fee included,Admin,2024-10-28 10:00:00
+71,57,76066,2025-03-25,Bank Transfer,BT-20250325-0071,Full payment,Admin,2025-03-25 10:00:00
+72,64,34606.21,2024-10-02,Bank Transfer,BT-20241002-0072,Late fee included,Admin,2024-10-02 10:00:00
+73,61,110256,2025-01-28,Bank Transfer,BT-20250128-0073,Late fee included,Admin,2025-01-28 10:00:00
+74,79,52098.64,2024-12-30,Cash,,Scholarship deduction applied,Admin,2024-12-30 10:00:00
+75,26,84260,2024-10-27,Bank Transfer,BT-20241027-0075,Late fee included,Admin,2024-10-27 10:00:00
+76,66,81935,2025-02-27,Bank Transfer,BT-20250227-0076,Partial payment,Admin,2025-02-27 10:00:00
+77,8,49499.46,2024-11-17,Cheque,CH-20241117-0077,Full payment,Admin,2024-11-17 10:00:00
+78,7,44242.6,2024-12-09,Bank Transfer,BT-20241209-0078,Late fee included,Admin,2024-12-09 10:00:00
+79,79,103689,2025-01-17,Bank Transfer,BT-20250117-0079,Late fee included,Admin,2025-01-17 10:00:00
+80,60,44036.58,2024-09-26,Online,ON-20240926-0080,Scholarship deduction applied,Admin,2024-09-26 10:00:00
+81,35,81219,2024-11-11,Cash,,Second installment,Admin,2024-11-11 10:00:00
+82,15,97401,2024-10-31,Online,ON-20241031-0082,Full payment,Admin,2024-10-31 10:00:00
+83,57,43396.33,2025-02-13,Bank Transfer,BT-20250213-0083,Partial payment,Admin,2025-02-13 10:00:00
+84,22,32289.92,2025-03-30,Bank Transfer,BT-20250330-0084,Late fee included,Admin,2025-03-30 10:00:00
+85,15,97401,2025-01-31,Cheque,CH-20250131-0085,Full payment,Admin,2025-01-31 10:00:00
+86,64,54430.85,2025-03-21,Bank Transfer,BT-20250321-0086,Full payment,Admin,2025-03-21 10:00:00
+87,68,107470,2024-10-24,Bank Transfer,BT-20241024-0087,Balance clearance,Admin,2024-10-24 10:00:00
+88,70,42490.63,2025-03-21,Cheque,CH-20250321-0088,Full payment,Admin,2025-03-21 10:00:00
+89,22,95916,2024-10-08,Cheque,CH-20241008-0089,Scholarship deduction applied,Admin,2024-10-08 10:00:00
+90,21,85914,2024-09-29,Bank Transfer,BT-20240929-0090,Full payment,Admin,2024-09-29 10:00:00
+91,9,44960.48,2024-10-31,Bank Transfer,BT-20241031-0091,Full payment,Admin,2024-10-31 10:00:00
+92,13,33897.4,2024-12-17,Bank Transfer,BT-20241217-0092,Late fee included,Admin,2024-12-17 10:00:00
+93,5,84777,2025-03-19,Bank Transfer,BT-20250319-0093,Scholarship deduction applied,Admin,2025-03-19 10:00:00
+94,7,95916,2024-10-27,Cheque,CH-20241027-0094,Full payment,Admin,2024-10-27 10:00:00
+95,60,103746,2025-02-16,Bank Transfer,BT-20250216-0095,Partial payment,Admin,2025-02-16 10:00:00
+96,54,93002,2024-09-16,Cheque,CH-20240916-0096,Balance clearance,Admin,2024-09-16 10:00:00
+97,33,97401,2024-09-28,Bank Transfer,BT-20240928-0097,Partial payment,Admin,2024-09-28 10:00:00
+98,5,84777,2024-11-22,Bank Transfer,BT-20241122-0098,Full payment,Admin,2024-11-22 10:00:00
+99,9,41019.29,2025-01-19,Online,ON-20250119-0099,Partial payment,Admin,2025-01-19 10:00:00
+100,51,107470,2024-12-26,Bank Transfer,BT-20241226-0100,Partial payment,Admin,2024-12-26 10:00:00
